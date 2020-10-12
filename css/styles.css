@@ -1,0 +1,107 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  text-align: center;
+  font-family: 'PT Sans Caption', sans-serif;
+  background-color: #eeeeee;
+  margin-bottom: 0;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%;
+  border-width: 10px;
+  border-color: #726a95;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  font-size: 85px;
+  margin-bottom: 5px;
+  color: #0d7377;
+}
+
+h2 {
+  color: #213e3b;
+}
+
+h3 {
+  font-family: 'Mitr', sans-serif;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #0d7377;
+}
+
+.topcontainer {
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  padding-bottom: 100px;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+
+.topcloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.ml {
+  height: 100px;
+  width: 100px;
+  float: left; /*float means the text will be wrapped around the image in the given alignment*/
+  margin-right: 20px;
+}
+
+.webdev {
+  height: 100px;
+  width: 100px;
+  float: right;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+.cloudcom {
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.footer-link {
+  margin-right: 40px;
+  text-align: right;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.webdevtitle{
+  text-align: right;
+}
+.endgame{
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #66BFBF;
+}
+.endname{
+  margin-top: 50px;
+  color: white;
+  font-size: 20px;
+  text-align:center;
+
+}
+.icons{
+  height: 40px;
+  width:40px;
+}
